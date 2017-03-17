@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebViewApp</string>
+    <string name="launch_site">Iniciar</string>
+    <string name="site_url">https://hs03.huayra.com.ar/asapp/invitar/2A6A1BF89EDE3AC5A52691C93</string>
+</resources>

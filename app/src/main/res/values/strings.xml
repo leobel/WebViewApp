@@ -2,4 +2,10 @@
     <string name="app_name">WebViewApp</string>
     <string name="launch_site">Iniciar</string>
     <string name="site_url">https://hs03.huayra.com.ar/asapp/invitar/2A6A1BF89EDE3AC5A52691C93</string>
+    <string name="invitation_dialog_title">Enviar Invitación</string>
+    <string name="invitation_dialog_cancel">No</string>
+    <string name="invitation_dialog_ok">Ok</string>
+    <string name="whatsapp_not_available">No tiene instalado WhastApp</string>
+    <string name="sms_not_available">No tiene instalada ninguna aplicación de mensajes</string>
+    <string name="email_not_available">No tiene instalada ninguna aplicación de correo</string>
 </resources>

@@ -38,6 +38,7 @@ public class WebViewActivity extends AppCompatActivity {
 
         mWebView = (WebView) findViewById(R.id.web_view);
         mWebView.getSettings().setBuiltInZoomControls(true);
+        mWebView.getSettings().setDisplayZoomControls(false);
         mWebView.getSettings().setJavaScriptEnabled(true);
         mWebView.setWebViewClient(new WebViewClient(){
             @Override
